@@ -28,7 +28,7 @@ This project performs **Part-of-Speech (POS) tagging** on the POS 1 dataset usin
 - Early stopping applied  
 
 ## Result
-**BiLSTM achieved the best performance**
+**BiLSTM achieved the best performance with**
 - Accuracy: 97%  
 - Macro F1-score: 0.85  
 
